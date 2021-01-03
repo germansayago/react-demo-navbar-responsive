@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-demo-navbar-responsive/static/css/main.84973f79.chunk.css",
+    "main.js": "/react-demo-navbar-responsive/static/js/main.61a5c6c8.chunk.js",
+    "main.js.map": "/react-demo-navbar-responsive/static/js/main.61a5c6c8.chunk.js.map",
+    "runtime-main.js": "/react-demo-navbar-responsive/static/js/runtime-main.30e159bb.js",
+    "runtime-main.js.map": "/react-demo-navbar-responsive/static/js/runtime-main.30e159bb.js.map",
+    "static/js/2.35eef9bc.chunk.js": "/react-demo-navbar-responsive/static/js/2.35eef9bc.chunk.js",
+    "static/js/2.35eef9bc.chunk.js.map": "/react-demo-navbar-responsive/static/js/2.35eef9bc.chunk.js.map",
+    "static/js/3.724a7710.chunk.js": "/react-demo-navbar-responsive/static/js/3.724a7710.chunk.js",
+    "static/js/3.724a7710.chunk.js.map": "/react-demo-navbar-responsive/static/js/3.724a7710.chunk.js.map",
+    "index.html": "/react-demo-navbar-responsive/index.html",
+    "static/css/main.84973f79.chunk.css.map": "/react-demo-navbar-responsive/static/css/main.84973f79.chunk.css.map",
+    "static/js/2.35eef9bc.chunk.js.LICENSE.txt": "/react-demo-navbar-responsive/static/js/2.35eef9bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30e159bb.js",
+    "static/js/2.35eef9bc.chunk.js",
+    "static/css/main.84973f79.chunk.css",
+    "static/js/main.61a5c6c8.chunk.js"
+  ]
+}
