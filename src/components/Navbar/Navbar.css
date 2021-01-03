@@ -34,7 +34,7 @@
   padding: 0.5rem 1rem;
 }
 .nav-links:hover{
-  background-color: #6568f4;
+  background-color: red;
   border-radius: 4px;
   transition: all 0.2s ease-out;
 }
@@ -61,7 +61,7 @@
     display: flex;
     flex-direction: column;
     width: 100%;
-    height: 500px;
+    /* height: 400px; */
     /* height: 90vh; */
     position: absolute;
     top: 80px;
@@ -69,7 +69,7 @@
     opacity: 1;
     transition: all 0.5s ease;
   }
-  .nav-menu.active {
+  .nav-menu.active {    
     background-color: #6568f4;
     left: 0;
     opacity: 1;
@@ -78,7 +78,7 @@
   }
   .nav-links {
     text-align: center;
-    padding: 1.8rem 0;
+    padding: 1.4rem 0;
     width: 100%;
     display: table;
   }
